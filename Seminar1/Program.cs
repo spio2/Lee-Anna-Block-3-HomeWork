@@ -34,7 +34,7 @@ else
         Console.WriteLine("Максимальное число: " + b);
     else
         Console.WriteLine("Максимальное число: " + c);
-*/
+
 
 
 
@@ -48,7 +48,6 @@ if (num % 2 == 0)
     Console.WriteLine("Чётное");
 else 
     Console.WriteLine("Нечётное");
-*/
 
 
 
