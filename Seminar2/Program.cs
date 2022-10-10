@@ -36,7 +36,7 @@ else
     Console.WriteLine("Тю! А здесь нет третьей цифры!");
     Console.WriteLine();
 }
-*/
+*/ 
 
 
 
