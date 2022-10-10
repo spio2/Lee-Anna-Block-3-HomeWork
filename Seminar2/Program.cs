@@ -51,7 +51,7 @@ string result = "";
 
 if (dayNumber > 5) 
 {
-    result = $". Ура! Это выходной день!";
+    result = $". Ю-хууу! Выходной день!";
 }
 else 
 {
