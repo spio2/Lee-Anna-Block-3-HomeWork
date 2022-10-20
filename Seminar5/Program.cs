@@ -2,7 +2,7 @@
 // Напишите программу, которая покажет количество чётных чисел в массиве.
 
 
-
+/*
 Console.Clear();
                                 // Метод для создания массива из случайных чисел
 int[] AskRandomArray(int size, int start, int end)
@@ -45,7 +45,7 @@ Console.WriteLine();
 
 Console.WriteLine($"Массив состоит из {myArray.Length} чисел, из них чётных - {CountOfEven(myArray)}.");
 Console.WriteLine();
-
+*/
 
 
 
@@ -122,7 +122,7 @@ void ShowArray(int[] array)
     
     Console.WriteLine();
 }
-                               // Сумма нечетных элементов
+                               // Разница между мин и мах
 int DifferMinMax(int[] array)
 {
     int min = array[0];
